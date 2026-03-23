@@ -1,0 +1,16 @@
+{
+  "name": "AgriConnect Zimbabwe",
+  "short_name": "AgriConnect",
+  "description": "Connecting Zimbabwean farmers to buyers, communities and markets",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d2210",
+  "theme_color": "#2D6A2F",
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ],
+  "categories": ["agriculture","business","social"],
+  "lang": "en-ZW"
+}
